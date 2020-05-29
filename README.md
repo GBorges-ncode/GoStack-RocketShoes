@@ -5,6 +5,6 @@
   <h4>It's a e-commerce based app, with function to add products to cart, increase or decrease the amounts in the cart. There's also an implementation for checking the available stock.</h4>
   <div align="center">
   <a href="https://imgur.com/AO5bKvP"><img src="https://i.imgur.com/AO5bKvP.png"/></a>
-  <a href="https://imgur.com/AO5bKvP"><img src="https://i.imgur.com/AO5bKvP.png"/></a>
+  <a href="https://imgur.com/YU6X0ol"><img src="https://i.imgur.com/YU6X0ol.png"/></a>
   </div>
 </div>
